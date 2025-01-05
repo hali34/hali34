@@ -11,7 +11,6 @@
   - Exploiting web-based vulnerabilities (XSS, SQLi, SSRF, etc.)
   - Automating security testing with tools like Burp Suite and OWASP ZAP
   - Secure coding practices and secure application development
-  - Web application firewalls (WAF) bypass techniques 
 > 💞️ I’m looking to collaborate on:
   - Web application security projects and research
   - Penetration testing scripts and automation tools
