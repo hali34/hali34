@@ -19,7 +19,7 @@
   - Bug bounty programs and practical vulnerability exploitation
   - Security audits and threat modeling for web applications
 > 📫 How to reach me:
-    - Email: hali34@example.com
+    - Email: humzaa980@gmail.com
     - LinkedIn: [linkedin.com/in/hali34](https://www.linkedin.com/in/hali34)
     - GitHub: [github.com/hali34](https://github.com/hali34)
 
